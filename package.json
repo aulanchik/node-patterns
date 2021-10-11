@@ -1,0 +1,9 @@
+{
+  "name": "node-patterns",
+  "version": "1.0.0",
+  "description": "NodeJS patterns",
+  "main": "index.js",
+  "repository": "https://github.com/aulanchik/node-patterns",
+  "author": "Artyom Ulanchik",
+  "license": "MIT"
+}
